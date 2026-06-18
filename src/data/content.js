@@ -3,9 +3,9 @@ export const CONTENT = {
   host: "portfolio",
   about: {
     name: "Ishaan Jog",
-    role: "Developer",
-    location: "Earth 🌍",
-    bio: "I build things for the web. Passionate about clean code, great UX, and open source.",
+    role: "Student | Developer",
+    location: "Maharashtra, India",
+    bio: "I build things for the cyber world. Passionate about clean code, great UX, and open source.",
   },
   skills: [
     "JavaScript", "TypeScript", "C/C++", "Kotlin", "Java", 
@@ -13,9 +13,9 @@ export const CONTENT = {
   ],
   projects: [
     {
-      name: "chatbot",
-      desc: "AI Chatbot based on Gemini API",
-      url: "https://github.com/Ishaan-Jog/chatbot",
+      name: "guardian-grid",
+      desc: "Real-Time ML Disaster Predictor and Defense Orchestrator",
+      url: "https://github.com/Ishaan-Jog/guardian-grid",
     },
     {
       name: "photopix",
