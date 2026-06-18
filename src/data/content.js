@@ -13,9 +13,9 @@ export const CONTENT = {
   ],
   projects: [
     {
-      name: "guardian-grid",
+      name: "PreSense",
       desc: "Real-Time ML Disaster Predictor and Defense Orchestrator",
-      url: "https://github.com/Ishaan-Jog/guardian-grid",
+      url: "https://github.com/Ishaan-Jog/presense-grid",
     },
     {
       name: "photopix",
